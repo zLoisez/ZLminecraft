@@ -1,0 +1,34 @@
+.fabric/processedMods/
+.fabric/remappedJars/minecraft-1.20.1-0.16.10/
+assets/indexes/
+assets/log_configs/bd/
+assets/objects/
+config/fabric/
+config/fancymenu/
+config/jei/
+config/konkrete/
+data/
+fancymenu_data/buddy/
+fancymenu_data/cached_data/
+fancymenu_data/fancymenu_temp/
+java/jdk-17.0.1.12-hotspot/bin/
+java/jdk-17.0.1.12-hotspot/conf/
+java/jdk-17.0.1.12-hotspot/include/
+java/jdk-17.0.1.12-hotspot/jmods/
+java/jdk-17.0.1.12-hotspot/legal/
+java/jdk-17.0.1.12-hotspot/lib/
+libraries/com/
+libraries/commons-codec/
+libraries/commons-io/
+libraries/commons-logging/
+libraries/io/
+libraries/it/
+libraries/net/
+libraries/org/
+logs/telemetry/
+mods/
+resourcepacks/
+saves/
+uploads/
+versions/Fabric 1.20.1/
+versions/Fabric 1.20.1/natives/
